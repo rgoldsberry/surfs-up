@@ -28,6 +28,10 @@ For the challenge we had two deliverables to create:
 
 3. If the investors are worried seeing the low temp of 56 in December, we can point to the 25th percentile temperature of 69 degrees and reassure them that in an average December we could expect 75% of days to come in at or above ~70 degrees so don't fear for more than a week or so of "cold" days.
 
+The June and December descriptive statistics are shown below, with June on the left and December on the right:
+
+![june_temps.png](june_temps.PNG) ![dec_temps.png](dec_temps.PNG)
+
 
 ## Summary
 
